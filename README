@@ -1,2 +1,6 @@
 Purpose
 The purpose of this repo is to create a standalone script for downloading soundcloud urls and uploading them to youtube along with an image.
+
+Requirements
+ffmpeg
+requests
